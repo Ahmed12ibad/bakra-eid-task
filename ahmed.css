@@ -134,15 +134,15 @@ border-radius: 30%;
     .card-2{
         width: 45%;
         margin-left: 54%;
-        margin-top: -45%;
+        margin-top: -30%;
         margin-bottom: 5%;
         color: yellow;
     }   
     .card-3{
         width: 45%;
-        margin-top: 145%;
+        margin-top: 143%;
         margin-left: 55%;
-        margin-bottom: 5%;
+        
         color: yellow;
     }   
     
@@ -150,9 +150,12 @@ border-radius: 30%;
        background-size: 100% 100%;
        display: flex;
        display: block;
-       
+       flex-direction: column;
+       flex: 1;
+       height: 95%;
        
     }
+    
     } 
     
     
