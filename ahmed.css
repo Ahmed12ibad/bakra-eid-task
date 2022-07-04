@@ -1,0 +1,62 @@
+body{
+width: 100vw;
+height: 100vh;
+display: flex;
+margin: 0;
+
+
+
+/* position: relative;
+animation: ahmed 10s infinite linear */ 
+}
+/* @keyframes ahmed {
+    100%{
+        background-image: url();
+        
+    }
+} */
+
+.head{
+flex: 1;
+/* background-color:rebeccapurple; */
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: flex-end;
+background-image: url(https://i.pinimg.com/originals/bb/23/ba/bb23ba37dc309d91c598e56a8b154146.jpg);
+background-size: 100% 100%;
+box-shadow: 2px 2px 10px 2px;
+}
+.card-1{
+    flex: 0.3;
+background-color: white;
+width: 15%;
+text-align: center;
+color: greenyellow;
+margin-right: 8%;
+border-radius: 30%;
+}
+.card-2{
+    flex: 0.3;
+    background-color: white;
+    width: 15%;
+    text-align: center;
+    color: greenyellow;
+    margin-right: 8%;
+    border-radius: 30%;
+}
+.card-3{
+
+    flex: 0.3;
+background-color: white;
+width: 15%;
+text-align: center;
+color: greenyellow;
+margin-right: 8%;
+border-radius: 30%;
+}
+
+
+
+
+
