@@ -121,5 +121,42 @@ border-radius: 30%;
 
 
 
+@media  (max-width: 420px) {
+    .card-1{
+        width: 45%;
+        
+        margin-bottom: 5%;
+        color:yellow;
+
+        
+        
+    }   
+    .card-2{
+        width: 45%;
+        margin-left: 54%;
+        margin-top: -45%;
+        margin-bottom: 5%;
+        color: yellow;
+    }   
+    .card-3{
+        width: 45%;
+        margin-top: 145%;
+        margin-left: 55%;
+        margin-bottom: 5%;
+        color: yellow;
+    }   
+    
+    .head{
+       background-size: 100% 100%;
+       display: flex;
+       display: block;
+       
+       
+    }
+    } 
+    
+    
+
+
 
 
